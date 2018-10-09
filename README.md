@@ -22,7 +22,7 @@ Cancer is the second cause of death worldwide. Most of cancers are caused by sol
 <img src="IMG/Concentration_bolus_HVR.PNG" width="600/">
 
 ## Provided compuational files
-[COMSOL file for simulation](AD_device_spheroid_Model_only.mph) : Results have been discarded to reduce file size. The simulation can be run again. The total file size including mesh and results is approximately 450 Mb.
+[COMSOL file for simulation](Tumor_vascularisation_Model_only.mph) : This simulation is designed to investigate the effect of a highly vascularised region inside the tumor. Results have been discarded to reduce file size. The simulation can be run again.
 
 ## Contact
 To get access to the full paper, contact [Thomas Galeon](https://github.com/TheGaga).
